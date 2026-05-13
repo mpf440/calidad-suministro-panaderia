@@ -42,6 +42,15 @@ La web permite explicar los fundamentos teóricos, modelar tres escenarios de fu
 ├── report/                     # Informe final y dictamen técnico
 └── web/                        # Aplicación React/Vite Equalyti PQ
 ```
+## Datos brutos PicoScope
+
+Los archivos originales exportados desde PicoScope se conservan externamente por tamaño, ya que superan el límite de subida directa de GitHub mediante navegador.
+
+Enlace a los datos brutos de PicoScope:
+
+[Descargar archivos PicoScope]**https://drive.google.com/file/d/1x3Zrsk9eJxQ6ZI3w2bffD1wgN1JFS_3K/view?usp=sharing**
+
+En el repositorio se incluyen además los resultados procesados, capturas, resúmenes de medidas, documentación técnica y la web interactiva.
 
 ## Sesiones de trabajo
 
