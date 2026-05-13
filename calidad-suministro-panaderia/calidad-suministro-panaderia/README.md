@@ -26,7 +26,7 @@ A partir de esta situación se estudian los fenómenos de **desequilibrio trifá
 
 La herramienta desarrollada durante el proyecto puede consultarse aquí:
 
-**https://bright-elf-9cf6e5.netlify.app**
+**https://calidad-suministro-elctrico-panaderia.netlify.app**
 
 La web permite explicar los fundamentos teóricos, modelar tres escenarios de funcionamiento del obrador, analizar señales tipo PicoScope, evaluar criterios de calidad eléctrica y redactar un dictamen técnico.
 
