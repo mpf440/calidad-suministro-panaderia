@@ -8,7 +8,7 @@
 
 - Miguel Pomares Fernández
 - Antonio Arcos Cortes
-- Alejandro Rodriguez Fernandez
+- Alejandro Rodriguez Fernández
 
 ## Resumen del proyecto
 
