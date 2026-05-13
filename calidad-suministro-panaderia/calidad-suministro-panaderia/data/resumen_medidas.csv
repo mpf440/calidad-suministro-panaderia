@@ -1,0 +1,7 @@
+configuracion,fase,tension_rms_V,corriente_rms_A,frecuencia_Hz,desfase_grados,fdp,p_aparente_VA,observacion
+Configuracion 1,R-N,247,1.88,50.03,0,1,464.36,"Carga resistiva equivalente: horno + resistencia auxiliar"
+Configuracion 1,S-N,248.8,0.78,50,65.03,0.42,194.064,"Carga inductiva con desfase; asociada a motores monofásicos"
+Configuracion 1,T-N,249.4,0.55,50.01,0,1,137.17,"Carga resistiva de menor potencia"
+Configuracion 2,R-N,248.1,1.13,50.01,-52.2,0.61,280.353,"Carga RL: motor auxiliar + amasadoras"
+Configuracion 2,S-N,247.9,1.53,50.01,0,1,379.287,"Carga resistiva con mayor corriente"
+Configuracion 2,T-N,245.4,0.58,49.98,0,1,142.332,"Carga resistiva de menor corriente; caída de tensión ligeramente mayor"
