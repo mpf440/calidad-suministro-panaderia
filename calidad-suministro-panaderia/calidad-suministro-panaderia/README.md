@@ -52,6 +52,13 @@ Enlace a los datos brutos de PicoScope:
 
 En el repositorio se incluyen además los resultados procesados, capturas, resúmenes de medidas, documentación técnica y la web interactiva.
 
+## Demo y resultados de aprendizaje
+
+Como parte de la entrega individual/grupal se incluye una demo escrita y una reflexión de resultados de aprendizaje:
+
+- [Demo / presentación del proyecto](demo/DEMO_PRESENTACION.md)
+- [Resultados de aprendizaje](demo/RESULTADOS_APRENDIZAJE.md)
+
 ## Sesiones de trabajo
 
 ### Sesión 1 · Reconocimiento de la instalación
